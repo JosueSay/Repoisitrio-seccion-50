@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Hola mundo
-Hola mundo3
-=======
 Hola mundo
 hola mundo2
->>>>>>> 206c5339ea8eb769fe0de18684d6108a412b7b2b
